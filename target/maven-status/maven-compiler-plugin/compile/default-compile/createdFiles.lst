@@ -1,0 +1,5 @@
+com\javasampleapproach\restdata\SpringRestDataManyToManyApplication.class
+com\javasampleapproach\restdata\model\Subject.class
+com\javasampleapproach\restdata\repository\SubjectRepository.class
+com\javasampleapproach\restdata\repository\StudentRepository.class
+com\javasampleapproach\restdata\model\Student.class
